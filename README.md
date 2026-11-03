@@ -1,11 +1,10 @@
-# RonaldoSwift
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="res/logo.png">
+    <img alt="Logo de RonaldoSwift" src="res/logo.png">
+  </picture>
+</p>
 
-Página personal de RonaldoSwift, desarrollador iOS.
-
-## Ejecutar
-
-Abre `index.html` en un navegador o sirve la carpeta con cualquier servidor
-estático local.
-
-El logo se encuentra en `res/logo.png`. Los badges se pueden añadir dentro de
-la navegación de `index.html` usando sus enlaces correspondientes.
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
+</p>
